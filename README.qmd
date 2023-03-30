@@ -6,7 +6,7 @@ editor:
 ---
 
 ## SSH bağlantısı
-Sunucunuza IP yerine hostname ile bağlanabilmek ve bu dökümandaki komutları direk kopyalayarak çalıştırabilmek için __C:\Windows\System32\drivers\etc\host__ dosyanıza sunucunuzun IP adresini içeren aşağıdaki gibi satır eklemenizi öneririm:
+Sunucunuza IP yerine hostname ile bağlanabilmek ve bu dökümandaki komutları direk kopyalayarak çalıştırabilmek için __C:\\Windows\\System32\\drivers\\etc\\host__ dosyanıza sunucunuzun IP adresini içeren aşağıdaki gibi satır eklemenizi öneririm:
 __192.168.185.201 kfnlinux__
 
 Windows'ta opsiyonel olarak gelen OpenSSH Client'ı ya da Putty, mRemoteNG, MobaXterm vb. uygulamaları indirip kurarak bağlanabilirsiniz.

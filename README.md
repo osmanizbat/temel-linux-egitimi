@@ -3,8 +3,9 @@
 ## SSH bağlantısı
 
 Sunucunuza IP yerine hostname ile bağlanabilmek ve bu dökümandaki
-komutları direk kopyalayarak çalıştırabilmek için **C:** dosyanıza
-sunucunuzun IP adresini içeren aşağıdaki gibi satır eklemenizi öneririm:
+komutları direk kopyalayarak çalıştırabilmek için
+**C:\Windows\System32\drivers\etc\host** dosyanıza sunucunuzun IP
+adresini içeren aşağıdaki gibi satır eklemenizi öneririm:
 **192.168.185.201 kfnlinux**
 
 Windows’ta opsiyonel olarak gelen OpenSSH Client’ı ya da Putty,
